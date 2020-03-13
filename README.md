@@ -9,4 +9,4 @@ To make you're own inro:
 - paste it to the file lge_memory.h and paste it into the variable extern uint8_t lge_mem[RAM_SIZE] = {}
 - Compile, upload to the board, and play
 
-Important: Please, leavce credits anywhere to ESPLGE/Corax !
+**Important: Please, leace credits anywhere to ESPLGE/Corax !**
