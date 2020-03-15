@@ -6,7 +6,8 @@ To make you're own inro:
 - Once is done, show the Debug window
 - Copy the compiled code (in the white area)
 ![screenshot](https://github.com/Loopingstar/ESPLGE-intro/blob/master/9287791583865382100.png)
-- paste it to the file lge_memory.h and paste it into the variable extern uint8_t lge_mem[RAM_SIZE] = {}
+- replace the **$** with **0x**
+- paste it to the file **lge_memory.h** and paste it into the variable **extern uint8_t lge_mem[RAM_SIZE] = {}**
 - Compile, upload to the board, and play
 
 **Important: Please, leave credits anywhere to ESPLGE/Corax !**
